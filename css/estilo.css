@@ -1,0 +1,58 @@
+img{
+	border-radius: 100%;
+}
+body{
+	padding-top: 12%;
+}
+h1{
+	font-family: 'Algerian', cursive;
+}
+
+h3{
+	font-family: "Arial Black";
+}
+#p{
+	font-family: "Arial Black"
+}
+#info{
+	font-family: "Arial Black";
+}
+#contenedor{
+	width: 100%;
+	height: 100%;
+	background: black;
+	position: absolute;
+}
+#th{ 
+	background-color: pink;
+}
+
+#facebook{
+	background: url(https://png.icons8.com/color/50/000000/facebook.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+}
+#twiter{
+	background: url(https://png.icons8.com/color/50/000000/twitter.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+#instagran{
+	background: url(https://png.icons8.com/color/50/000000/instagram-new.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+#youtube{
+	background: url(https://png.icons8.com/color/50/000000/youtube.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+#dani{
+	height: 50px;
+	
+}
